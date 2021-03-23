@@ -1,6 +1,6 @@
 using System;
 
-namespace VCubeWatcher.Models
+namespace VCubWatcher.Models
 {
     public class ErrorViewModel
     {
